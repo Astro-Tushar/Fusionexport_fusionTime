@@ -1,6 +1,6 @@
 
 
-const { ExportManager, ExportConfig } = require("..");
+const { ExportManager, ExportConfig } = require("fusionexport-node-client");
 
 // Instantiate ExportManager
 const exportManager = new ExportManager();
